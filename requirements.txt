@@ -42,8 +42,8 @@ vllm==0.8.4
 # opentelemetry-api~=1.30
 # opentelemetry-sdk~=1.30
 opentelemetry-exporter-otlp-proto-http>=1.36.0
-opentelemetry-api<=1.39.0,>=1.35.0
-opentelemetry-sdk<1.39.0,>=1.35.0
+opentelemetry-api<=1.39.0,>=1.26.0
+opentelemetry-sdk<1.39.0,>=1.26.0
 
 ##
 ## Instalar aparte la libreria flash_attn con el comando !pip install flash_attn 
