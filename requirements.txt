@@ -1,5 +1,6 @@
 ## torch==2.5.1
 ## torchvision==0.20.1
+## torchaudio==2.5.1
 ## opencv-python==4.10.0.84
 ## diffusers>=0.31.0
 ## transformers==4.49.0
@@ -18,8 +19,9 @@
 ## flash_attn
 ## 
 
-torch
-torchvision
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1 
 opencv-python==4.12.0.88
 diffusers>=0.31.0
 transformers==4.49.0
