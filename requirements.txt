@@ -33,6 +33,7 @@ dashscope
 imageio-ffmpeg
 numpy<2.1,>=1.22
 xfuser
+decord
 ##
 ## Instalar aparte la libreria flash_attn con el comando !pip install flash_attn 
 ## flash_attn
